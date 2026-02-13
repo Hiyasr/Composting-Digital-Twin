@@ -1,0 +1,16 @@
+Waste Type,Category,C:N Ratio,Target Temp (°C),Moisture (%),Optimal pH,Timeframe,Critical Inhibitors
+Vegetable Peels,Greens,15:1,45–65,50–65,6.5–8.0,1–8 Weeks,Oils/Fats
+Fruit Skins,Greens,15:1,45–65,50–65,6.5–8.0,1–8 Weeks,Citrus (High Acidity)
+Spoiled Food,Greens,15:1,45–65,50–65,6.5–8.0,1–8 Weeks,Anaerobic conditions
+Coffee Grounds,Greens,20:1,45–65,50–65,6.5–8.0,1–8 Weeks,None
+Tea Bags,Greens,20:1,45–65,50–65,6.5–8.0,1–8 Weeks,Plastic mesh
+Tissues / Napkins,Browns,50:1,25–45,40–60,6.5–8.0,4–12 Weeks,Inks/Glues
+Paper Towels,Browns,50:1,25–45,40–60,6.5–8.0,4–12 Weeks,Chemical residues
+Clean Packaging,Browns,60:1,25–45,40–60,6.5–8.0,4–12 Weeks,Glossy coatings
+Cardboard,Browns,100:1,25–45,40–60,6.5–8.0,4–12 Weeks,Adhesives
+Cotton Pads,Textiles,200:1,25–45,60–70,6.5–8.0,2–6 Months,Synthetic blends
+Natural Torn Cloth,Textiles,200:1,25–45,60–70,6.5–8.0,2–6 Months,Synthetic fibers
+Cleaning Rags,Textiles,200:1,25–45,60–70,6.5–8.0,2–6 Months,Detergents/Chemicals
+Earbuds,Exclusions,Inert,N/A,N/A,N/A,Indefinite (Cannot Decompose),Plastic sticks
+Band-aids,Exclusions,Inert,N/A,N/A,N/A,Indefinite (Cannot Decompose),Adhesives
+Coated Paper,Exclusions,Inert,N/A,N/A,N/A,Indefinite (Cannot Decompose),Plastic coatings
