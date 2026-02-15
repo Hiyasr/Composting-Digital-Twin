@@ -21,9 +21,10 @@ st.caption("Software-first simulation of intelligent biodegradation")
 # Load Waste Database
 @st.cache_data
 def load_database():
-    # Use relative path for GitHub/Streamlit Cloud deployment 
-    path = "data/raw/rectified_waste_properties.csv"
-    return WasteDatabase(path)
+    # We no longer pass the 'C:' path here; the class handles it [cite: 17]
+    return WasteDatabase()
+
+db = load_database()
 
 db = load_database()
 
