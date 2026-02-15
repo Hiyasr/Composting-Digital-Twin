@@ -1,6 +1,8 @@
 import streamlit as st
 import plotly.express as px
 import pandas as pd
+import sys
+import os
 
 from core.bin_state import BinState
 from core.waste_database import WasteDatabase
