@@ -10,7 +10,7 @@
 The **Composting Digital Twin** is a mathematical simulation of the composting process.  
 It models how environmental conditions influence microbial activity, which in turn drives organic waste degradation.
 
-This is a pure simulation model — no hardware required.
+This is a pure simulation model, no hardware required.
 
 ---
 
