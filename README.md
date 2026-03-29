@@ -118,8 +118,7 @@ This project can be deployed using:
 
 ## 🔮 Future Enhancements
 
-- Environmental dataset integration  
-- IoT sensor coupling  
+- One Atribute focus  
 - Machine learning optimization layer  
 - Waste-specific degradation tuning  
 - Predictive compost maturity scoring  
